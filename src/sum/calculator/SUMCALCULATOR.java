@@ -11,5 +11,5 @@ public class SUMCALCULATOR {
         int num2=scanner.nextInt();
         System.out.print(num1-num2);
     }
-    
+     
 }
