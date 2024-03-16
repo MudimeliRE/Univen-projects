@@ -9,7 +9,7 @@ public class SUMCALCULATOR {
         int num1=scanner.nextInt();
         System.out.print("instert second number");
         int num2=scanner.nextInt();
-        System.out.print(num1+num2);
+        System.out.print(num1-num2);
       
     }
     
